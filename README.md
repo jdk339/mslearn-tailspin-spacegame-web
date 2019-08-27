@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/tailspin212121/Space%20Game%20-%20Web%20-%20Pipeline/_apis/build/status/jdk339.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/tailspin212121/Space%20Game%20-%20Web%20-%20Pipeline/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
